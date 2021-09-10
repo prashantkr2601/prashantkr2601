@@ -30,13 +30,13 @@
 
 <div align ="center">
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantkr2601&show_icons=true&locale=en&layout=compact" alt="prashantkr2601"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantkr2601&show_icons=true&locale=en&layout=compact" alt="prashantkr2601"/>
 </p>
   <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantkr2601&show_icons=true&locale=en" alt="prashantkr2601" />
+<img  src="https://github-readme-stats.vercel.app/api?username=prashantkr2601&show_icons=true&locale=en" alt="prashantkr2601" />
 </p>
   <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkr2601&" alt="prashantkr2601" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkr2601&" alt="prashantkr2601" />
 
  </p>
 </div>
