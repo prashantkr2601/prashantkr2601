@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prashantkr2601&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkr2601" /> </p>
 
-- 🔭 I’m currently working on [Incorporating stock prices and news sentiments for stock market prediction](https://github.com/prashantkr2601/stock-market-prediction)
+- 🔭 I’m currently working on [Incorporating stock prices and news sentiments for stock market prediction](https://github.com/prashantkr2601/Stock-Prices-Prediction-Based-on-Social-Influence-Historic-Data)
 
 - 🌱 I’m currently learning **Data Science Concepts**
 
