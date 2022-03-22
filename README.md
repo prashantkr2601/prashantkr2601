@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 <hr/>
-<h3 align="center">A passionate Frontend Developer , Mearn Stack , Machine Learning , Data Analytics and Data Science </h3>
+<h3 align="center">A passionate  Mern Stack, Data Science, Machine Learning and Data Analytics  </h3>
 <hr/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prashantkr2601&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkr2601" /> </p>
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Data Science Concepts**
 
-- 👯 🔭 I’m currently working on **Data structure,algorithms and competitive programming**
+- 👯 🔭 I’m currently working on **Data structure, Algorithms and Competitive Programming**
 
 - 👨‍💻 Portfolio Link: [https://prashant-portfolio.netlify.app/](https://prashant-portfolio.netlify.app/)
 
-- 💬 Ask me about **Reactjs,MongoDB,SQL,Python,Java Script,Machine Learning,Data Science,Data Analytics,HTML and CSS**
+- 💬 Ask me about **Reactjs, MongoDB, SQL, Python, Java Script, Machine Learning, Data Science, Data Analytics, HTML and CSS**
 
 - 📫 How to reach me **prashantkr2601@gmail.com**
 
