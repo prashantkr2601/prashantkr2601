@@ -23,8 +23,8 @@
 
 <h3 align="left">Profiles:</h3>
 
-- **Linked In:** [https://www.linkedin.com/in/prashantkr2601](https://www.linkedin.com/in/prashantkr2601)
-- **Codechef:** [https://www.codechef.com/users/lzzi_prashant](https://www.codechef.com/users/lzzi_prashant)
+- **LinkedIn:** [https://www.linkedin.com/in/prashantkr2601](https://www.linkedin.com/in/prashantkr2601)
+- **CodeChef:** [https://www.codechef.com/users/lzzi_prashant](https://www.codechef.com/users/lzzi_prashant)
 - **LeetCode:** [https://leetcode.com/prashantkr2601/](https://leetcode.com/prashantkr2601/)
 - **HackerRank:** [https://www.hackerrank.com/prashantkr2601](https://www.hackerrank.com/prashantkr2601)
 - **GitHub:** [https://github.com/prashantkr2601](https://github.com/prashantkr2601)
