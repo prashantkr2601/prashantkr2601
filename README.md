@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 <hr/>
-<h3 align="center">A passionate  MERN Stack, Data Science, Machine Learning and Data Analytics  </h3>
+<h3 align="center">A passionate  Full Stack Developer, Data Science, Machine Learning and Data Analytics  </h3>
 <hr/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prashantkr2601&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkr2601" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science Concepts**
 
-- 👯 🔭 I’m currently working on **Data structure, Algorithms and Competitive Programming**
+- 🔭 I’m currently working on **Data structure, Algorithms and Competitive Programming**
 
 - 👨‍💻 Portfolio Link: [https://prashant-portfolio.netlify.app/](https://prashant-portfolio.netlify.app/)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Additionally, I have acquired the Following Skills:</h3>
  
-- **C, C++,JavaScript, Python, MongoDB, SQL, NoSQL, Cassendra, Hive, RestAPI, HTML, CSS,Bootstrap, AJAX, Jquery, Git, AWS, OpenCV, Machine Learning, Data Analyst and Data Science**
+- **C, C++,JavaScript, Python, MongoDB, SQL, NoSQL, Cassendra, Hive, RestAPI, HTML, CSS,Bootstrap, AJAX, Jenkins, Kubernetes, Docker, Jquery, Git, AWS, OpenCV, Machine Learning, Data Analyst and Data Science**
 
 <h3 align="left">Profiles:</h3>
 
