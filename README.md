@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 <hr/>
-<h3 align="center">A Passionate  About Full Stack Developer, MERN/MEAN Stack Developer, Backend Developer And Frontend Developer. </h3>
+<h3 align="center">A Passionate  About Full Stack Development, MERN/MEAN Stack Development, Backend Development And Frontend Development. </h3>
 <hr/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prashantkr2601&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkr2601" /> </p>
